@@ -13,7 +13,7 @@ int main(void)
 {
 	int tendigit, onedigit;
 
-	for (tendigit = 0; tendigit <= 8; tendigit++)
+	for (tendigit = 1; tendigit <= 8; tendigit++)
 	{
 	for (onedigit = tendigit; onedigit <= 9; onedigit++)
 	{
